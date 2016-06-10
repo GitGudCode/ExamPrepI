@@ -1,0 +1,6 @@
+c:\users\gamin_000\documents\visual studio 2015\Projects\ExamPrepI\SweetDessert\bin\Debug\SweetDessert.exe.config
+c:\users\gamin_000\documents\visual studio 2015\Projects\ExamPrepI\SweetDessert\bin\Debug\SweetDessert.exe
+c:\users\gamin_000\documents\visual studio 2015\Projects\ExamPrepI\SweetDessert\bin\Debug\SweetDessert.pdb
+c:\users\gamin_000\documents\visual studio 2015\Projects\ExamPrepI\SweetDessert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\gamin_000\documents\visual studio 2015\Projects\ExamPrepI\SweetDessert\obj\Debug\SweetDessert.exe
+c:\users\gamin_000\documents\visual studio 2015\Projects\ExamPrepI\SweetDessert\obj\Debug\SweetDessert.pdb
